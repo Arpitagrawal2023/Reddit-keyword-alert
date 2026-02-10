@@ -1,0 +1,4 @@
+requests
+schedule
+resend
+python-dotenv
